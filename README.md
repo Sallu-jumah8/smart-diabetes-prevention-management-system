@@ -30,5 +30,5 @@ The system was designed to support:
 - AI System Design
 - Software Analysis & Design
 
-## Course Project
-Developed as part of the INFS3103 Systems Analysis & Design course.
+## Team Project
+Developed collaboratively as part of the INFS3103 Systems Analysis & Design course.
