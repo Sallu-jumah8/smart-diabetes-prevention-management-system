@@ -31,4 +31,4 @@ The system was designed to support:
 - Software Analysis & Design
 
 ## Team Project
-Developed collaboratively as part of the INFS3103 Systems Analysis & Design course.
+Developed collaboratively as part of the Systems Analysis & Design course.
